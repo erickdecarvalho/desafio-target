@@ -1,0 +1,8 @@
+1. Ligue o primeiro interruptor e espere alguns minutos.
+  * A lâmpada correspondente a este interruptor vai esquentar.
+
+2. Desligue o primeiro interruptor, ligue o segundo e vá até a sala.
+  * Na sala, você encontrará uma das seguintes situações:
+  * A lâmpada que está acesa é controlada pelo segundo interruptor (que você acabou de ligar).
+  * A lâmpada que está apagada, mas quente, é controlada pelo primeiro interruptor (que estava ligado por um tempo antes de ser desligado).
+  * A lâmpada que está apagada e fria é controlada pelo terceiro interruptor (que você nunca ligou).
